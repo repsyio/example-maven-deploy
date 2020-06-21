@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.repsy.example</groupId>
-  <artifactId>maven-deploy-with-m2-settings</artifactId>
+  <artifactId>maven-deploy</artifactId>
   <version>1.0</version>
-  <name>maven-deploy-with-m2-settings</name>
-  <description>Maven Deploy Example with .m2 settings file</description>
+  <name>maven-deploy</name>
+  <description>Maven Deploy Example</description>
 
   <properties>
     <java.version>1.8</java.version>

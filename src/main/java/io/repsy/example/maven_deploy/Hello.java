@@ -1,4 +1,4 @@
-package io.repsy.example.maven_deploy_with_m2_settings;
+package io.repsy.example.maven_deploy;
 
 public class Hello {
 
